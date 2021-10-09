@@ -9,12 +9,14 @@ I have also used graphs to visualize the data for our better understanding.
 
 ## Evaluation
 ### Linear Regression
-#### **Training set accuracy** - 57%
-#### **Test set accuracy** - 55%
+ **Training set accuracy** - 57%
+ **Test set accuracy** - 55%
+
 
 ### Polynomial Regression
-#### **Training set accuracy** - 68%
-#### **Test set accuracy** - 64%
+ **Training set accuracy** - 68%
+ **Test set accuracy** - 64%
+
 
 ### As we can see Polynomial Regression works much better as we are not limited to fit data on a straight line.
 
