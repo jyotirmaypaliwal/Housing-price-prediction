@@ -7,14 +7,14 @@ Likewise, in the jupyter notebook named "Linear Regression", we have predicted t
 
 I have also used graphs to visualize the data for our better understanding.
 
-## Evaluation
-### Linear Regression
+# Evaluation
+## Linear Regression
  **Training set accuracy** - 57%
  
  **Test set accuracy** - 55%
 
 
-### Polynomial Regression
+## Polynomial Regression
  **Training set accuracy** - 68%
  
  **Test set accuracy** - 64%
