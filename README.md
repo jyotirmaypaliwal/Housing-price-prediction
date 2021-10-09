@@ -22,6 +22,6 @@ I have also used graphs to visualize the data for our better understanding.
 
 
 
-## As we can see Polynomial Regression works much better as we are not limited to fit data on a straight line.
+#### As we can see Polynomial Regression works much better as we are not limited to fit data on a straight line.
 
  The data used in this repository was taken from https://www.kaggle.com/quantbruce/real-estate-price-prediction?ref=hackernoon.com.
