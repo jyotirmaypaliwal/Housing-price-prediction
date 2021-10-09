@@ -10,11 +10,13 @@ I have also used graphs to visualize the data for our better understanding.
 ## Evaluation
 ### Linear Regression
  **Training set accuracy** - 57%
+ 
  **Test set accuracy** - 55%
 
 
 ### Polynomial Regression
  **Training set accuracy** - 68%
+ 
  **Test set accuracy** - 64%
 
 
