@@ -2,8 +2,8 @@
 
 ### Housing price prediction using Linear and Polynomial Regression.
 
-In the jupyter notebook named "Polynomial Regression", we have predicted the housing prices using Polynomial Regression but with using the machinery of Linear Regression. 
-Likewise, in the jupyter notebook named "Linear Regression", we have predicted the housing prices using Linear Regression and in additon we have also created a test set in both of the notebooks using Sci-kit Learn to see their accuracy.
+In the jupyter notebook named "Polynomial Regression", I have predicted the housing prices using Polynomial Regression but with using the machinery of Linear Regression. 
+Likewise, in the jupyter notebook named "Linear Regression", I have predicted the housing prices using Linear Regression and in additon we have also created a test set in both of the notebooks using Sci-kit Learn to see their accuracy.
 
 I have also used graphs to visualize the data for our better understanding.
 
